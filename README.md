@@ -8,5 +8,5 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_root-Tex/count.svg" />
+  <img src="https://profile-counter.glitch.me/codeFreeCamp/count.svg" />
 </p>
