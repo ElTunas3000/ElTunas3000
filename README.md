@@ -11,4 +11,4 @@
   <img src="https://profile-counter.glitch.me/codeFreeCamp/count.svg" />
 </p>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/activity-graph.svg" alt="fabianocouto" width=99.8% /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://raw.githubusercontent.com/ElTunas3000/ElTunas3000/main/assets/activity-graph.svg" alt="ElTunas3000" width=99.8% /></a>
