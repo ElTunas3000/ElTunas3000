@@ -1,4 +1,5 @@
 ## Hi there 👋
 
 <img src="https://media1.tenor.com/m/TbTe1Nc6j34AAAAC/hacker-hackerman.gif" >
-## Godzilla vs Deymar
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
